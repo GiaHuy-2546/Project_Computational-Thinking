@@ -8,9 +8,13 @@ Xây dựng ứng dụng quản lý học tập: Cho phép sinh viên tạo task
 
 ## Thành viên:
 
-| MSSV | Tên |
-|---|---|
-| 24122004 | Võ Lê Gia Huy |
+| MSSV | Thành viên | Vai trò | Trách nhiệm chính |
+|---|---|---|---|
+| 24122004 | Võ Lê Gia Huy | **Scrum Master** | Điều phối sprint, gỡ rào cản, đảm bảo quy trình Agile |
+| 24122002 | Đinh Như Phát | **Product Owner** | Viết & ưu tiên user stories, đại diện cho người dùng |
+| 24122012 | Lê Minh Quân | **Developer** | Thiết kế giao diện (UI/UX) |
+| 24122022 | Nguyễn Hoài Phước | **Developer** | Thiết kế dữ liệu & logic |
+| 24122028 | Trần Xuân Bách | **Developer** | Kiểm thử & tài liệu |
 
 ## Chức năng chính:
 
@@ -22,3 +26,4 @@ Xây dựng ứng dụng quản lý học tập: Cho phép sinh viên tạo task
 
 ## Link Notion:
 
+[Notion](https://www.notion.so/aa9200bd4a644b62bfc365718a2650ef?source=copy_link)
